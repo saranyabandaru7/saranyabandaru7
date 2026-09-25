@@ -57,6 +57,9 @@ C++ / OOP project focused on employee management and payroll processing.
 ### Library Management System
 DBMS project focused on database design, relationships, and SQL operations.
 
+### Virtusa Jatayu Season 6
+Currently Participating
+
 ## Current Focus
 **DSA • Full-Stack Development • AI • Software Development**
 
